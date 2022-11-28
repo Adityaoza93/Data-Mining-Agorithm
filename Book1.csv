@@ -1,0 +1,15 @@
+RID,Age,Income,Student,Credit_Rating,Buys_Computer
+1,Youth,high,NO,Fair,No
+2,Youth,high,NO,Execellent,No
+3,Middle_aged,high,NO,Fair,Yes
+4,senior,medium,NO,Fair,Yes
+5,senior,Low,Yes,Fair,Yes
+6,senior,Low,Yes,Execellent,No
+7,Middle_aged,Low,Yes,Execellent,Yes
+8,Youth,medium,NO,Fair,No
+9,Youth,Low,Yes,Fair,Yes
+10,senior,medium,Yes,Fair,Yes
+11,Youth,medium,Yes,Execellent,Yes
+12,Middle_aged,medium,NO,Execellent,Yes
+13,Middle_aged,high,Yes,Fair,Yes
+14,senior,medium,NO,Execellent,No

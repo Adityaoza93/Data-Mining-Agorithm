@@ -1,0 +1,7 @@
+﻿id,age,income,student,credit_rating,class
+1,youth,high,no,fair,no
+2,youth,high,no,excellent,no
+3,middle age,high,no,fair,yes
+4,senior,high,no,fair,yes
+5,senior,medium,yes,fair,yes
+6,senior,low,yes,excellent,no
